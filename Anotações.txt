@@ -1,0 +1,16 @@
+Git - Sistema de controle de versões
+
+GitHub - É o Hub de compartilhamento do projeto. Onde ficará armazenado o projeto oficial.
+
+Cada desenvolvedor ficará com uma cópia baixada em sua maquina local. E irá enviar commits ao projeto de origen que está no GitHub 
+
+Git - É o sistema de controle de versões que vai realizar a conexão entre as maquinas locais e o projeto origem que esta no GitHub.
+
+Controle de versão - Quando algum desenvolvedor realiza uma alteração no código que está na maquina local e vai enviar para o github o git que é o sistema de controle de versão verifica se ele possui em sua maquina a ultima versão. Se sim  é possivel seguir com a atualização no código do contrario ele informa que é necessário baixar a nova versão. Caso tenha um conflito de código o desenvolvedor irá escolhar qual versão ficará registrada. E todo esse processo fica registrado através dos commits.
+
+há vários controladores de versão mas o Git é o mais utilizado e é o utilizado na autoglass atualmente. 
+
+Users\gabriel.vieira\Desktop\Autoplay 2023\Andamento - Git e Github controle e compartilhe seu código
+
+---------------------------------------------------------------
+
